@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head><title>CavyTech Development</title></head>
+    <body>
+        <font size=3 face="Calibri">
+            <center>
+                <h1>CavyTech Development</h1>
+                <h2>Welcome to the official website for CavyTech Development!</h2>
+                <h3>We are a small team of developers from all around the world. We're currently working on 2 major projects, which can be found in more detail below, along with our newsfeed!</h3>
+                <br />
+                <h1>Projects</h1>
+                <h2>SkyHigh Flight Simulator</h2>
+                <h3>Release Date: Will be released to the public (FREE) in Autumn 2019</h3>
+                <br />
+                <h2>CTBot (a new, smart bot for you to have conversations with)</h2>
+                <h3>Release Date: Open beta releases May 2019.</h3>
+                <br />
+                <h1>Newsfeed</h1>
+                <h2>CAVYTECH TURNS 1!</h2>
+            </center>
+        </font>
+    </body>
+</html>
